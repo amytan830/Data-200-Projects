@@ -1,0 +1,15 @@
+professor_id,first_name,last_name,email_address,course_id,rank
+P001,Laura,Clark,laura.clark01@university.edu,CSE101A,Senior Professor
+P003,Sarah,Morris,sarah.morris03@university.edu,MAT202B,Assistant Professor
+P004,Anna,Evans,anna.evans04@university.edu,MAT202B,Associate Professor
+P005,Laura,Rogers,laura.rogers05@university.edu,ENG150C,Instructor
+P006,Emily,Parker,emily.parker06@university.edu,UNASSIGNED,Assistant Professor
+P007,Jessica,Morris,jessica.morris07@university.edu,UNASSIGNED,Senior Professor
+P008,James,Reed,james.reed08@university.edu,BIO110E,Associate Professor
+P009,Michael,Reed,michael.reed09@university.edu,HIS330F,Instructor
+P010,Robert,Parker,robert.parker10@university.edu,HIS330F,Professor & Administrator
+P011,Linda,Adams,linda.adams11@university.edu,CHE115G,Assistant Professor
+P012,Linda,Campbell,linda.campbell12@university.edu,CIS220H,Associate Professor
+P013,Karen,Adams,karen.adams13@university.edu,ART105I,Instructor
+P014,Linda,Jones,linda.jones@sjsu.edu,DATA226,Senior Professor
+P015,Richard,Son,richard.son@sjsu.edu,DATA226,Instructor
